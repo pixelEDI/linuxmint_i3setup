@@ -72,6 +72,11 @@ Keychain Setup
 eval keychain --eval --agents ssh privatey1 privatkey2 id_rsa
 ```
 
+Alterantiv
+```
+eval $(keychain --eval --agents ssh id_rsa privatkey2 --quick --quiet)
+```
+
 SSH Keys sind unter
 
 ```
