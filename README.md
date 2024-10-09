@@ -148,6 +148,8 @@ configuration {
 Die Anleitung in dem Repo ist gut ausgeführt.
 
 - <https://github.com/tobi-wan-kenobi/bumblebee-status>
+- nicht vergessen die notwendigen Fonts zu installieren
+`sudo apt-get install fonts-powerline`
 
 ### Titelbar der einzelnen Fenster entfernen
 
